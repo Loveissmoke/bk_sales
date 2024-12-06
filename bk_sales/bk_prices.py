@@ -1,3 +1,4 @@
+#beki
 prices = {
     'knorraio': 4,
     'knorrchicken': 4,
